@@ -18,7 +18,7 @@ Purchase from Ticketmaster on AMEX: $616.23
 ### Golf
 
 Gregg will book the tee times sometime between September 1 and September 10. See this note: 
-[[Inbox/2026-09-25 Las Vegas Golf\|2026-09-25 Las Vegas Golf]]
+[[Trips/2026-09-25 Las Vegas Golf\|2026-09-25 Las Vegas Golf]]
 
 Targeting 18 holes, probably at Rhodes Ranch Golf Club, with tee time starting some time before 1:00pm.
 
